@@ -34,7 +34,7 @@ const EXP_DATA = [
     period: 'Sep 2025 — Des 2025',
     role: 'UI/UX Designer',
     org: 'Proyek Akademik — Amikom Yogyakarta',
-    desc: 'Merancang antarmuka aplikasi mobile adopsi kucing online menggunakan Figma. Fokus pada pengalaman pengguna yang ramah, alur pencarian hewan, dan interaksi yang intuitif.'
+    desc: 'Merancang antarmuka web cats adaptor app menggunakan Figma. Fokus pada pengalaman pengguna yang ramah, alur pencarian hewan, dan interaksi yang intuitif.'
   },
   {
     type: 'Proyek',
