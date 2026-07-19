@@ -33,7 +33,7 @@ const EXP_DATA = [
     icon: 'fas fa-paint-brush',
     period: 'Sep 2025 — Des 2025',
     role: 'UI/UX Designer',
-    org: 'Proyek Akademik — Amikom Yogyakarta',
+    org: 'Cats Adaptor App',
     desc: 'Merancang antarmuka web cats adaptor app menggunakan Figma. Fokus pada pengalaman pengguna yang ramah, alur pencarian hewan, dan interaksi yang intuitif.'
   },
   {
