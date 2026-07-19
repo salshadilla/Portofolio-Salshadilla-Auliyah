@@ -53,14 +53,14 @@ export default function About() {
 
             {/* About text */}
             <p className="about-text">
-              Mahasiswa Sistem Informasi semester akhir yang berdedikasi membangun solusi
-              digital yang berdampak. Saya passionate dalam pengembangan web <strong>full-stack</strong>,
-              mulai dari desain antarmuka yang estetis hingga logika backend yang solid.
+              Hi, I'm Salsha, an Information Technology student with a strong passion for Web Development and UI/UX Design. 
+              I enjoy creating digital products that are not only visually appealing but also functional, user-friendly, 
+              and capable of solving real-world problems.
             </p>
             <p className="about-text">
-              Berpengalaman membangun aplikasi berbasis <strong>PHP CodeIgniter 3</strong>, MySQL, Bootstrap,
-              dan JavaScript. Selain coding, saya juga aktif dalam <strong>UI/UX Design</strong> menggunakan
-              Figma — percaya bahwa pengalaman pengguna yang baik sama pentingnya dengan kode yang bersih.
+              Throughout my learning journey, I've developed various web-based projects, ranging from portfolio websites 
+              and educational platforms to e-commerce systems and collaborative workspace applications. I enjoy transforming 
+              ideas into interactive and responsive web experiences while continuously improving my technical and design skills.
             </p>
             <p className="about-text" style={{marginBottom: 28}}>
               Terbuka untuk peluang kerja sama, freelance, maupun diskusi seputar teknologi.
