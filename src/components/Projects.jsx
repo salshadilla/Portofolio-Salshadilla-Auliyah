@@ -28,7 +28,7 @@ const PROJECTS = [
     title: 'Prediksi Status Mahasiswa',
     sub: 'Machine Learning & Web App',
     desc: 'Aplikasi berbasis web untuk menganalisis dan memprediksi status kelulusan mahasiswa menggunakan algoritma klasifikasi data mining guna membantu institusi mengidentifikasi mahasiswa berisiko.',
-    tags: ['Python','Flask','Machine Learning','MySQL','Figma'],
+    tags: ['Python','Flask','Machine Learning','Google Colab'],
     gh: 'https://github.com/salshadilla/Prediksi-Status-Mahasiswa'
   },
   {
